@@ -8,7 +8,7 @@ public class LostInCity {
             int n=sc.nextInt();
             int m=sc.nextInt();
             int s=sc.nextInt()-1;
-            
+
 
             int[] sweet=new int[n];
             int[] distance=new int[n];

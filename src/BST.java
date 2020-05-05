@@ -29,6 +29,7 @@ public class BST {
                 root.right=insertRec(root.right,key);
             return root;
         }
+        //Comments
         void inorder(){
             inorderRec(root);
         }

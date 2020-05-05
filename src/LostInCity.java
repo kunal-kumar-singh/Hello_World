@@ -5,6 +5,7 @@ public class LostInCity {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
         while(t-->0){
+            //some comments for learning
             int n=sc.nextInt();
             int m=sc.nextInt();
             int s=sc.nextInt()-1;

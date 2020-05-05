@@ -30,6 +30,7 @@ class Main
             weight[i]=sc.nextInt();
             val[i]=sc.nextInt();
         }
+        //Comments
         long ans=knapsack(weight,val,w,n);
         System.out.println(ans);
         sc.close();
